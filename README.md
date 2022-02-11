@@ -1,3 +1,3 @@
 # myfirstrepo
 
-I am trying to learn sbout Github
+I am trying to learn about Github
