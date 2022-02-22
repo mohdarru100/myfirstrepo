@@ -1,7 +1,4 @@
 Hello World
 Armaan
-<<<<<<< HEAD
 Thank you 
-=======
-Thank you ...hollo
->>>>>>> db84b1ec71ba35e5917c40d82034d01ace6aa799
+
